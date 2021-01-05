@@ -1,0 +1,74 @@
+--------------------------------
+E:/BigData/Project/Run/Files_Keywords/TextFiles\9201005v1.txt
+--------------------------------
+, kn ) =
+
+n 2
+
+(n  2)!(2k + 2m  1)cei(k+m)x+(1+k+m) , (13)
+
+which is easily derived by a repeated application of
+
+o 1
+
+2 , 1
+
+2
+
+ceikx+(1+k) = 2kcei(k+ 1
+
+2 )x+(1+k+ 1
+
+2 ) ., kn ; p1, p2, ., kn ; p1, p2, .(24)
+
+the charges qm,m act analogously on the  tachyons.[1, 2], while in the continuum
+
+approach they have been known for a long time [3].[5-8], while
+
+in the continuum  in ref.yi=1 z dpi pb(p)
+ys=1
+xl=1
+
+j+m+1
+
+j+m+1
+
+(35)
+
+now that we have determined how the charges act on the vertex operators, we
+
+can derive powerful constraints on the correlation functions.finally, we note that all the above formulae can be modied for the  tachyons
+
+by a simple parity ip., kn+1 >= fm+n,m(ki)|k > ,
+
+k = m +
+
+ki .these physical states, that
+
+are present only for quantized values of momentum, are the remnants of transverse
+
+string excitations [4].to complete
+the ward identity, we need to consider the action of qm,m on t  which, by the
+sum rules, carries momentum p =  1
+2 (n  1).this
+
+encourages us to believe that all the correlation functions are determined by the
+
+symmetries of the theory.in this fashion, as expected, the
+
+symmetry between the xed and moving vertex operators is restored, and each one
+
+introduces the factor 2k + 2m into the ward identity.in this paper i derive
+
+the symmetry ward identities and show how they determine the non-vanishing
+
+tachyon correlation functions.the ward identities can be rephrased in a fock space notation for tachyons.i will restrict myself to the non-compact closed
+
+string case and to the bulk correlation functions that satisfy the energy sum rule
+
+[4, 11].thus, the (n, 1) amplitudes are determined by
+
+the ward identities for the virasoro subalgebra (11).they appear, somewhat surprisingly, in the two-dimensional
+
+string model and make it quite non-trivial.
+--------------------------------

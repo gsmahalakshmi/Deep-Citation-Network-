@@ -1,0 +1,40 @@
+--------------------------------
+E:/BigData/Project/Run/Files_Keywords/TextFiles\9201002v1.txt
+--------------------------------
+c: particles and fields, 51, 627 (1991).this
+is related to the fact that each generator g of a lie algebra is a primitive element,
+i.e.this possibility, realized by using a contraction pro-
+cedure [4,5], results in a meaningful tool for the description of problems with a
+fundamental length scale.likewise, the dierential operator in (2) gives a realization
+of the casimir invariant of the pseudoeuclidean quantum algebra eq(1, 1) [4] with
+q = eia and real a , which in its own right can be considered the kinematical
+symmetry of the discrete system.faddeev, algebra and anal-
+ysis 1, 193 (1990).even the coalgebra plays a fundamental physical role as it establishes
+the rules for combining single phonons into composite systems.the composition of the momenta shows that the umklapp process is implied
+by the quantum group symmetry.in this letter we show that the qdeformed pseudoeuclidean algebra eq(1, 1)
+[4] arises quite naturally as kinematical symmetry of phonon propagation in har-
+monic crystals, whose lattice spacing is interpreted as the dimensional deformation
+parameter.it has also been shown that the quantum geometry associated to
+the action of qdeformed groups on quantum spaces can be given by means of
+q-dierence operators [3].here we analyze the case with m = 0, which describes the phonons.let us show how the coproduct can be brought to bear to the study of the
+fusion of phonons.we conclude by observing that the very same procedure can be applied to
+the interaction of any number of phonons.phonons with their symmetries as well as multiphonon processes are derived
+
+from the quantum group structure.32, 1159 (1991);
+e. celeghini, r. giachetti, e. sorace and m. tarlini, contractions of quan-
+tum groups, proceedings of the rst semester on quantum groups, eds.the quantum deformed (1 + 1) poincare algebra is shown to be the kine-
+
+matical symmetry of the harmonic chain, whose spacing is given by the deformation
+
+parameter.pacs 02.20.+b; 02.90.+p; 03.65.fd
+
+just from their early setting it has been observed the anity of quantum
+groups with nite dierence calculus [1] and the presence of qformulas in the
+realizations of these new algebras has laid the ground for a theory of qspecial
+functions [2].koelink, on quantum groups and qspecial function, ph.d. thesis, (lei-
+den, holland, 1991).lett b 264, 331
+
+(1991).inhomogeneous quantum groups are thus proposed
+
+as kinematical invariance of discrete systems.
+--------------------------------

@@ -1,0 +1,166 @@
+--------------------------------
+E:/BigData/Project/Run/Files_Keywords/TextFiles\9201004v1.txt
+--------------------------------
+concluding remarks
+
+it has been shown in this paper that by putting the heterotic green-schwarz super-
+
+string on an n=(2,0) super-worldsheet, rather than on an ordinary worldsheet, two major
+
+problems are solved.after this simplication, the light-cone
+
+methods were successfully used to calculate neveu-schwarz-ramond scattering amplitudes
+
+with an arbitrary number of loops and an arbitrary number of external neveu-schwarz
+
+bosons.14,15
+
+in the neveu-schwarz-ramond formalism, polyakovs ansatz can also be used to eval-
+
+uate superstring scattering amplitudes.the covariant method on an ordinary worldsheet
+
+in 1984, green and schwarz discovered a lorentz-covariant action on an ordinary
+
+worldsheet for the green-schwarz superstring that had enough classical symmetries to be
+
+able to be gauge-xed to the free light-cone action.6 for the ten-dimensional heterotic
+
+green-schwarz superstring, this action is:
+
+z d d{
+
+1
+
+det e
+
+[
+
+
+
++ + em
+
+ pmp] + i x(
+
+)  ix( 
+
+)}, (iii.a.1)
+
+ is the two-dimensional vielbein (m is either  or ), 
+  + 
+
+where em
+so(9,1) gamma-matrices satisfying the cyclic identity 
+  = 0,
+
+), and in two-dimensional minkowski space,    +  and
+  em
+     are the worldsheet coordinates, + and  are the tangent-space coordinates, x
+is a real so(9,1) vector,  is a real so(9,1) chiral spinor, and p are the 32 real so(9,1)
+
+ are the symmetric
+  + 
+
+ (mx  im
+
+scalars that parameterize the self-dual lattice of the heterotic string.it will be interesting to see how
+
+the sum over spin structures in the neveu-schwarz-ramond formalism is replaced in the
+
+green-schwarz formalism (note that on an n=(2,0) surface, the discrete spin structures
+
+of an n=1 surface are replaced by the continuous u(1) moduli)38. perhaps the biggest
+
+problem will be understanding how to describe the subset of punctured n=(2,0) super-
+
+riemann surfaces that correspond to light-cone super-worldsheets.(2) green,m.b.(6) green,m.b.the covariant superparticle action on an n=2 super-worldline
+
+the superparticle on both an n=1 and n=2 super-worldline was rst discovered
+
+by sorokin, tkach, and volkov in 1989.28 although they considered three and four-
+
+dimensional target spaces,
+
+it is straightforward to generalize their results to a ten-
+
+dimensional target space.19,29 instead of starting from the usual action for the massless
+
+18
+
+particle, r d [a x x], they started from an action containing bosonic spinors that
+
+closely resemble the twistor variables of penrose30.at the present time, only the heterotic version of the green-schwarz covariant action
+
+is able to be dened on n=2 super-riemann surfaces.the second half of the paper will discuss the polyakov method for evaluating heterotic
+
+green-schwarz scattering amplitudes.it will rst be shown that the ten-dimensional
+
+covariant green-schwarz action on an ordinary riemann surface contains a conformal
+
+anomaly in the semi-light-cone gauge.10 it will next be shown how to dene the covariant
+
+heterotic green-schwarz superstring action on an n=(2,0) super-riemann surface (this
+
+n=(2,0) action for the heterotic green-schwarz superstring was rst dened by tonin18,
+
+who relied heavily on earlier work done by sorokin, tkach, volkov, and zheltukhin on the
+
+4
+
+superparticle19).besides elim-
+
+inating the need to sum over spin structures, the spacetime supersymmetry of the green-
+
+schwarz formalism considerably simplies the evaluation of superstring scattering ampli-
+
+tudes involving external fermions.1
+
+unfortunately, at the present time, there are only two methods for calculating green-
+
+schwarz superstring scattering amplitudes, neither of which has been very productive.the light-cone method on an ordinary worldsheet
+
+the light-cone method for the interacting green-schwarz superstring was rst intro-
+
+duced by green and schwarz in 1982 to describe external strings with momenta p + = 0,1
+
+and was later generalized by green, schwarz,2 and mandelstam3 to describe external
+
+strings with arbitrary p +.in order to do this, one rst has to construct a lorentz-covariant
+
+action for the heterotic green-schwarz superstring on an n=(2,0) super-worldsheet.the advantage of starting from this twistor-like action is that supersymmetrizing
+
+the worldline produces the superparticle, rather than the spinning particle.i. introduction
+
+the green-schwarz formalism for the superstring has the advantage over the neveu-
+
+schwarz-ramond formalism of being manifestly spacetime supersymmetric.once the superparticle action on an n=2 super-worldline has been constructed, it is
+
+straightforward to generalize to the heterotic green-schwarz superstring on an n=(2,0)
+
+super-worldsheet (although the superparticle action on an n=1 super-worldline can also
+
+be generalized to a heterotic green-schwarz superstring action on an n=(1,0) super-
+
+worldsheet,33 this action does not allow the correct periodicity conditions for the green-
+
+schwarz elds, and it suers from a conformal anomaly like the action on an ordinary
+
+worldsheet).there are two problems that occur with this light-cone method on ordinary world-
+
+sheets, either in the green-schwarz or in the neveu-schwarz-ramond formalism.3
+
+in this paper,
+
+it will be shown that by replacing the ordinary two-dimensional
+
+worldsheet of the heterotic green-schwarz superstring action17 with an n=(2,0) super-
+
+worldsheet, the problems with both the light-cone and covariant methods in the green-
+
+schwarz formalism can be solved as they were in the neveu-schwarz-ramond formal-
+
+ism.with these n=(2,0) super-virasoro constraints, it should be possible to use standard
+
+brst quantization techniques to calculate scattering amplitudes16 and to construct a
+
+second-quantized eld theory36,37 for the heterotic green-schwarz superstring.
+--------------------------------
